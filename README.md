@@ -19,7 +19,7 @@ I am a Junior Front-end Developer <img src="https://media.giphy.com/media/WUlplc
 </div>
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=your-github-Assel2109
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Assel2109&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
 
 
 
