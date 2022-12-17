@@ -10,7 +10,7 @@ I am a Junior Front-end Developer <img src="https://media.giphy.com/media/WUlplc
 
 - :zap: In my free time, I read books.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](your-telegram.org/z-url)
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](your-telegram-url)
 
 
 
