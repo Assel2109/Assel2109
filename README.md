@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+<div id="header" align="center">
+  <img src="https://i.gifer.com/GbpT.gif" width="100"/>
+</div>
+                 
 <!--
 **Assel2109/Assel2109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
