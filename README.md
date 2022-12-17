@@ -1,12 +1,20 @@
 ### Hi there 👋, my name is Assel
 
-![I am front-end developer]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://i.gifer.com/GbpT.gif))
+### :woman_technologist: About Me :
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I am a Junior Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazakhstan.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+- :telescope: I’m working as a Junior Front-end Developer
 
-- 🔭 I’m currently working on this page. 
+- :seedling: I’m currently learning SCSS
+
+- :zap: In my free time, I read books.
+
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+
+
+
+
 
 
 
