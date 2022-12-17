@@ -12,7 +12,7 @@ I am a Beginner Junior Front-end Developer <img src="https://media.giphy.com/med
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Assel_2109)
 
-<img src="https://github.com/Assel2109/username=Assel2109&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Assel2109&style=flat-square&color=blue" alt=""/>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -23,7 +23,7 @@ I am a Beginner Junior Front-end Developer <img src="https://media.giphy.com/med
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Assel2109&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Assel2109&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Assel2109&layout=compact&theme=vision-friendly-dark)](https://github.com/Assel2109/github-readme-stats)
 
 
 
