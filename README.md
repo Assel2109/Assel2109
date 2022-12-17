@@ -2,9 +2,9 @@
 
 ### :woman_technologist: About Me :
 
-I am a Junior Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazakhstan.
+I am a Beginner Junior Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazakhstan.
 
-- :telescope: I’m working as a Junior Front-end Developer
+- :telescope: I’m going to work as a Junior Front-end Developer
 
 - :seedling: I’m currently learning SCSS
 
@@ -12,7 +12,7 @@ I am a Junior Front-end Developer <img src="https://media.giphy.com/media/WUlplc
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Assel_2109)
 
-<img src="https://assel2109.com/ghpvc/?username=Assel2109&style=flat-square&color=blue" alt=""/>
+<img src="https://github.com/Assel2109/username=Assel2109&style=flat-square&color=blue" alt=""/>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
