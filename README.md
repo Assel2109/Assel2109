@@ -12,6 +12,8 @@ I am a Junior Front-end Developer <img src="https://media.giphy.com/media/WUlplc
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Assel_2109)
 
+<img src="https://assel2109.com/ghpvc/?username=Assel2109&style=flat-square&color=blue" alt=""/>
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
