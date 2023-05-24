@@ -6,7 +6,7 @@ I am a Beginner Junior Front-end Developer <img src="https://media.giphy.com/med
 
 - :telescope: I’m going to work as a Junior Front-end Developer
 
-- :seedling: I’m currently learning SCSS
+- :seedling: I’m currently learning TS
 
 - :zap: In my free time, I read books.
 
